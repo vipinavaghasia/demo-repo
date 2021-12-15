@@ -8,3 +8,5 @@ Password: krishna
 ADMIN:
 Username: om
 Password: om
+Username: om
+Password: om
